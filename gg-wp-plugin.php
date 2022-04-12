@@ -60,6 +60,8 @@ function wpb_last_updated_date( $content ) {
 add_filter( 'the_content', 'wpb_last_updated_date' );
 
 
+// https://smartwp.com/code-snippets-for-wordpress/
+// https://www.wpkube.com/code-snippets-wordpress/
 // https://www.wpbeginner.com/wp-tutorials/display-the-last-updated-date-of-your-posts-in-wordpress/
 // $u_time = get_the_time('U'); 
 // $u_modified_time = get_the_modified_time('U'); 
