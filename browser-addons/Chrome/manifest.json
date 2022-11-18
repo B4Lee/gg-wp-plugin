@@ -1,0 +1,11 @@
+{
+    "name": "Covid-19 Stats Indonesia",
+    "version": "1.0.0",
+    "description": "latest covid data of Indonesia",
+    "manifest_version": 3,
+    "author": "Iqbal Anggoro",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Latest Covid Report"
+    }
+}
